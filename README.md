@@ -1,4 +1,4 @@
-# supervised-machine-learning-challenge
+# Supervised Machine Learning Challenge
 
 To view the predictions and results of this challenge, please open the "Credit Risk Evaluator.ipynb" file.
 
